@@ -1,12 +1,10 @@
-
 ---
 layout: post
-title: "Introduction to Stock Analysis with R"
-summary: "Geeting data with quantmod, Import from CSV file and Visualize data"
+title: Markdown Cheatsheet
+summary: Markdown is a way to style text on the web. You control the display of the document; formating words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in.
 featured-img: emile-perron-190221
 categories: Guides
 ---
-
 
 Firstly, we install and load the necessary packages.To analyse stock data and to get stock data from the internet, we will use quantmod and ggplot2. Firstly, we install and load the necessary packages.
 
